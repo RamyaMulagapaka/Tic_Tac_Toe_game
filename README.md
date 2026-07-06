@@ -1,8 +1,8 @@
-# 🎮 Tic Tac Toe Game in Java
+# Tic Tac Toe Game in Java
 
 A simple console-based Tic Tac Toe game developed using Java.
 
-## 📌 Features
+## Features
 
 - Two-player game
 - Player name input
@@ -12,13 +12,13 @@ A simple console-based Tic Tac Toe game developed using Java.
 - Prevents invalid moves
 - User-friendly console interface
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - Java
 - Scanner Class
 - Arrays
 
-## ▶️ How to Run
+## How to Run
 
 ### Compile
 
@@ -32,7 +32,7 @@ javac Tic_Tac_Toe.java
 java Tic_Tac_Toe
 ```
 
-## 📷 Sample Output
+## Sample Output
 
 ```
 ----Welcome to Tic Tac Toe Game---
@@ -46,15 +46,15 @@ java Tic_Tac_Toe
 |-----|-----|-----|
 
 Enter Player 1 Name : Ramya
-Enter Player 2 Name : Sekhar
+Enter Player 2 Name : Priya
 
 Ramya : X
-Sekhar : O
+Priya : O
 
 Okay Ramya. Let's start the game with you...
 ```
 
-## 📚 Concepts Used
+## Concepts Used
 
 - Classes
 - Static Variables
@@ -66,7 +66,7 @@ Okay Ramya. Let's start the game with you...
 - User Input
 - Game Logic
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 - Single Player Mode (AI)
 - GUI using Java Swing
@@ -74,6 +74,6 @@ Okay Ramya. Let's start the game with you...
 - Restart Game Option
 - Better Input Validation
 
-## 👩‍💻 Author
+## Author
 
 Ramya
